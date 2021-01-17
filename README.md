@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://komarev.com/ghpvc/?username=AregGhazaryan&color=blue)
+[![Mail](https://img.shields.io/badge/-areg.areg51@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:areg.areg51@gmail.com)<br>
+
+![Areg's github stats](https://github-readme-stats.vercel.app/api?username=AregGhazaryan&show_icons=true&bg_color=90,fa0053,fa0026&title_color=fff&text_color=fff&icon_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AregGhazaryan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AregGhazaryan/AregGhazaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
