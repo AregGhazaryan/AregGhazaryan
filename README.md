@@ -68,8 +68,3 @@ I am a self-taught developer experienced in many programming languages/framework
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   
 </p>
-
-## Stats
-![Areg's github stats](https://github-readme-stats.vercel.app/api?username=AregGhazaryan&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AregGhazaryan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
