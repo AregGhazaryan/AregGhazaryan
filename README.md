@@ -8,7 +8,6 @@ I am a self-taught developer experienced in many programming languages/framework
 ### How to reach me?
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areg.areg51@gmail.com)
 [![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4967796/areg)
-[![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/aregthelionchin/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areg-ghazaryan-7b461a180/)
 
 ## Languages/Frameworks/Softwares
